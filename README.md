@@ -46,7 +46,7 @@ Este es un portafolio personal desarrollado como parte del Curso 4, enfocado en 
 1. **Clona o descarga el repositorio:**
    ```bash
    git clone [URL-del-repositorio]
-   cd 2085-html-css-responsividad-aula4
+   cd Alura-Latam-html-css-responsividad
    ```
 
 2. **Abre el proyecto:**
@@ -101,7 +101,3 @@ Este proyecto fue desarrollado como parte del Curso 4 de Alura Latam.
 ## 👨‍💻 Desarrollado por
 
 **Alura Latam** - Plataforma de educación en tecnología
-
-
----
----# Alura-Latam-html-css-responsividad
